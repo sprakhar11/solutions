@@ -1,0 +1,15 @@
+7
+4 1 2 3 5 6 7
+6
+
+
+Output:
+
+Input the size of the array
+Input the array
+Intput the number to be find
+5
+
+
+
+Status - >completed
